@@ -20,6 +20,4 @@ text-decoration: none;
 border-radius: 5px;
 "
 onmouseover="this.style.color='RoyalBlue';"
-onmouseout="this.style.color='white';"
-> Download
-> <i class="fa fa-download"></i> > </a>
+onmouseout="this.style.color='white';" > Download TranslationAppML.apk <i class="fa fa-download"></i> </a>
